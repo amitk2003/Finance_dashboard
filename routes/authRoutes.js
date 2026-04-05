@@ -23,6 +23,12 @@ const router = express.Router();
  *                 type: string
  *               password:
  *                 type: string
+ *              role:
+ *                 type: string
+ *                 enum: [Viewer, Analyst, Admin]
+ *              status:
+ *                type: string
+ *                enum: [active, inactive]
  *     responses:
  *       201:
  *         description: User created successfully
