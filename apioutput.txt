@@ -1,0 +1,11 @@
+//get request ouput 
+{
+    "_id": "69d1f7c918f2bcb5d474f602",
+    "username": "admin",
+    "email": "admin.finance@26.com",
+    "role": "Admin",
+    "status": "active",
+    "createdAt": "2026-04-05T05:48:57.519Z",
+    "updatedAt": "2026-04-05T05:48:57.519Z",
+    "__v": 0
+}
