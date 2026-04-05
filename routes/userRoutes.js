@@ -9,6 +9,7 @@ import {
   deleteUser,
   getCurrentUser 
 } from '../controllers/userController.js';
+const router = express.Router();
 // get current user (/me)
 /**
  * @swagger
